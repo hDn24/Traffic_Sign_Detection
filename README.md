@@ -2,9 +2,9 @@
 Nhận diện biển báo giao thông
 
 ## Demo
-![alt text](https://github.com/hDn24/Traffic_Sign_Detection/blob/master/result_sign_1.PNG)
+![alt text](https://github.com/hDn24/Traffic_Sign_Detection/blob/master/first_result.PNG)
 
-![alt text](https://github.com/hDn24/Traffic_Sign_Detection/blob/master/result_sign_2.PNG)
+![alt text](https://github.com/hDn24/Traffic_Sign_Detection/blob/master/second_result.PNG)
 
 
 ## Implement
